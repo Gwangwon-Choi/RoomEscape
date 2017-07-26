@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomEscape.Plugins", "RoomEscape.Plugins.csproj", "{321B83EE-4A95-BF85-CFCA-323BF6B406EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomEscape", "RoomEscape.csproj", "{EE778BE4-02E6-937B-8121-19F877DFFD02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomEscape.Editor", "RoomEscape.Editor.csproj", "{051E125D-913B-EFAC-E353-C79C465C1368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321B83EE-4A95-BF85-CFCA-323BF6B406EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321B83EE-4A95-BF85-CFCA-323BF6B406EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321B83EE-4A95-BF85-CFCA-323BF6B406EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321B83EE-4A95-BF85-CFCA-323BF6B406EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE778BE4-02E6-937B-8121-19F877DFFD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE778BE4-02E6-937B-8121-19F877DFFD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE778BE4-02E6-937B-8121-19F877DFFD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE778BE4-02E6-937B-8121-19F877DFFD02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051E125D-913B-EFAC-E353-C79C465C1368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051E125D-913B-EFAC-E353-C79C465C1368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051E125D-913B-EFAC-E353-C79C465C1368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051E125D-913B-EFAC-E353-C79C465C1368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
